@@ -2,6 +2,8 @@ Fixed tower repeat raid not working after successfully completion
 Fixed tower auto next scene not activating sometimes
 Fixed mage of light menu showed up on other class
 Fixed alignment of the miscellaneous menu
+Fixed w4 not targeting gates
 Hide future functions menu
+Auto Zoom Out
 Rewrite autofarm
 Rewrite warlord always using block
