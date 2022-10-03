@@ -7,6 +7,7 @@ Fixed not sell the low tier
 Hide future functions menu
 Auto Zoom Out
 Rewrite autofarm
+Rewrite auto delete eggs
+Rewrite auot sell tier 1-4
 Rewrite warlord always using block
-Red color indicate the toggle can not be saved
-Blue color indicate the toggle can be saved
+Use dark and light color indicate toggles that can be saved & toggles can not
